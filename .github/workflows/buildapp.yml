@@ -12,7 +12,7 @@ on:
         required: true
         type: string
       decrypted_youtube_url:
-        description: "Direct URL of the decrypted YouTube ipa"
+        description: "https://litter.catbox.moe/ex4ger90jyuo95hq.ipa"
         default: ""
         required: true
         type: string
